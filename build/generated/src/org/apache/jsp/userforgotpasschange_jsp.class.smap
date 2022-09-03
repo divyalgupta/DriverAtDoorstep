@@ -1,0 +1,13 @@
+SMAP
+userforgotpasschange_jsp.java
+JSP
+*S JSP
+*F
++ 0 securityGuard.jsp
+securityGuard.jsp
++ 1 userforgotpasschange.jsp
+userforgotpasschange.jsp
+*L
+2,12:50
+1#1,116:62
+*E

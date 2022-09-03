@@ -1,0 +1,15 @@
+SMAP
+deleteoperator_jsp.java
+JSP
+*S JSP
+*F
++ 0 deleteoperator.jsp
+deleteoperator.jsp
+*L
+1,131:49
+131,16:180
+146,2:196
+148,4:198,3
+152,4:210
+155,34:214
+*E

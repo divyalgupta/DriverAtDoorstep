@@ -1,0 +1,18 @@
+<script>
+function validate()
+{
+if(frm.userid.value==0)
+	alert("Id is required");
+if(frm.pass.value==0)
+	alert("password is required");
+}
+</script>
+<html>
+<body>
+<form name = "frm">
+ID<input type=text name="userid">
+password<input type=password name="pass">
+<input type = submit value = Login onClick = "validate()">
+</form>
+</body>
+</html>
